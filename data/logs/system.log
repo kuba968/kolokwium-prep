@@ -1,0 +1,7 @@
+Oct 10 10:10:10 host kernel: INFO start
+Oct 10 10:10:12 host app[1234]: WARN cache miss on key=abc
+Oct 10 10:10:13 host app[1234]: INFO request handled
+Oct 10 10:10:14 host app[1234]: ERROR failed to open file
+Oct 10 10:10:15 host app[1234]: warn deprecated call
+Oct 10 10:10:16 host app[1234]: info background job done
+Oct 10 10:10:17 host app[1234]: ERROR network timeout
