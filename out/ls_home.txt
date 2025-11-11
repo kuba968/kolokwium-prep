@@ -1,0 +1,13 @@
+total 48K
+drwxr-x--- 7 kuba kuba 4.0K Nov 11 21:57 .
+drwxr-xr-x 5 root root 4.0K Nov 11 21:32 ..
+-rw------- 1 kuba kuba  148 Nov 11 21:45 .bash_history
+-rw-r--r-- 1 kuba kuba  220 Nov 11 21:32 .bash_logout
+-rw-r--r-- 1 kuba kuba 3.7K Nov 11 21:32 .bashrc
+drwx------ 2 kuba kuba 4.0K Nov 11 21:36 .cache
+-rw------- 1 kuba kuba   41 Nov 11 21:57 .lesshst
+drwx------ 4 kuba kuba 4.0K Nov 11 21:38 .local
+-rw-r--r-- 1 kuba kuba  807 Nov 11 21:32 .profile
+drwxrwxr-x 2 kuba kuba 4.0K Nov 11 21:49 .ssh
+drwxrwxr-x 7 kuba kuba 4.0K Nov 11 22:03 kolokwium-prep
+drwx------ 3 kuba kuba 4.0K Nov 11 21:36 snap
